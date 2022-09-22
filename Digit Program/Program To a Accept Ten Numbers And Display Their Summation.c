@@ -18,5 +18,5 @@ int main()
   getch();
   clrscr();
   
-  printf("\n Summation of given numbers= %d",Sum);
+  printf("\n Summation Of Given Numbers= %d",Sum);
 }

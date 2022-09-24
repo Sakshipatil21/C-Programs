@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+
 int main()
 {
   int r = 0,c = 0,rcnt = 0,ccnt = 0;

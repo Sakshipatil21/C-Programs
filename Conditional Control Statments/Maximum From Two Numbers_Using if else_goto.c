@@ -12,7 +12,7 @@ int main()
         if(Num1 == Num2)
         {
           printf("\n Both Numbers Are Equal");
-          printf("\n\n ========== ***** ==========");
+          printf("\n\n ======================== ***** ========================");
           
           printf("\n\n For Comparison There Should Be Two Different Numbers \n");
           goto Accept;

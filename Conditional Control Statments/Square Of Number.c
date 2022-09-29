@@ -13,7 +13,7 @@ int main()
   
   if(Num <= 0)
   {
-      printf("\n Invalid Number.\n\n Please Enter Another Number =");
+      printf("\n Invalid Number.\n\n Please Enter Another Number");
       getch();
       goto Up;
   }

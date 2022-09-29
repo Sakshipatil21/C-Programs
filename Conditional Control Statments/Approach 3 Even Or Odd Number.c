@@ -5,14 +5,14 @@ int main()
 {
   int Num = 0;
   
-  Down:
-      printf("\n\n Enter a Number = ");
-      scanf("%d",&Num);
+  Up:
+     printf("\n\n Enter a Number = ");
+     scanf("%d",&Num);
   
   if(Num == 0)
   {
      printf("\n %d is Neutral Number.",Num);
-     goto Down;
+     goto Up;
   }
   if(Num % 2 == 0)
   {

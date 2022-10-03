@@ -6,7 +6,7 @@ int main()
    int No = 0,Fact = 0,Temp = 0;
    
    Up:
-     printf("\n Enter a Positive Integer Number => ");
+     printf("\n Enter a Number to Find Factorial => ");
      scanf("%d",&No);
      
      if(No <= 0)

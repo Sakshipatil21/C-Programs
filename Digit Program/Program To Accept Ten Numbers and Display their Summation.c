@@ -4,7 +4,7 @@ int main()
 {
   int No=0,Sum=0,Cnt=0;
   
-  printf("\n Enter 10 Numbers=>");
+  printf("\n Enter Ten Numbers => ");
   
   for(Cnt=1;Cnt<=10;Cnt++)
   {
@@ -18,5 +18,5 @@ int main()
   getch();
   clrscr();
   
-  printf("\n Summation Of Given Numbers= %d",Sum);
+  printf("\n Summation Of Given Numbers = %d",Sum);
 }

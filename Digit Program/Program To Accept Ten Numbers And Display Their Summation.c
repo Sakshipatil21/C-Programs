@@ -4,7 +4,7 @@ int main()
 {
   int No=0,Sum=0,Cnt=0;
   
-  printf("\n Enter Ten Numbes=>");
+  printf("\n Enter Ten Numbers => ");
   
   for(Cnt=1;Cnt<=10;Cnt++)
   {

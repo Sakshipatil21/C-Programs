@@ -13,7 +13,6 @@ int main()
     printf("\n\n The Value Of 105 Element = %d.",Arr[4]);
 
     getch();
-
     system("cls");
 
     printf("Enter Array Element => \n\n");

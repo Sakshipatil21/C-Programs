@@ -16,7 +16,7 @@ int main()
   
            if(No <= 0)
            { 
-                printf("\n Invalid Number. Please Enter Positive Integer Number.");
+                printf("\n Invalid Number.\n Please Enter Positive Integer Number.");
                 getch();
                 system("cls");
                 goto Up;

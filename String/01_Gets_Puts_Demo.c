@@ -3,7 +3,7 @@
 
 int main()
 {
-   char Arr[50] = { };
+   char Arr[50] = {};
    
    puts("\n Enter a String :");
    gets(Arr);

@@ -5,7 +5,7 @@ int main()
 {
    char Arr[50] = {};
    
-   puts("\n Enter a String :");
+   puts("\n Enter a String : ");
    gets(Arr);
    
    puts("\n Given String is => ");

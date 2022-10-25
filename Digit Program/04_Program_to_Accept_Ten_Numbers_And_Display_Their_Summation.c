@@ -13,9 +13,9 @@ int main()
     
     Sum = Sum + No;
   }
-  printf("\n Press any key to get summation of given numbers.");
+  printf("\n Press Any key to Get Summation of Given Numbers.");
   
-  printf("\n\n Summation of given number = %d",Sum);
+  printf("\n\n Summation of Given Number = %d",Sum);
   
   getch();
   return 0;

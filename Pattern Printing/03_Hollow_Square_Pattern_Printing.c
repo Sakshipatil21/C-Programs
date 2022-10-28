@@ -5,7 +5,7 @@ int main()
 {
   int r = 0,c = 0,cnt = 0;
   
-  printf("\n Enter Number of Rows =");
+  printf("\n Enter Number of Rows = ");
   scanf("%d",&cnt);
   
   printf("\n Pattern is.......\n\n");

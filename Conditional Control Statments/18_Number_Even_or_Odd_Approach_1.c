@@ -5,7 +5,7 @@ int main()
 {
   int Num = 0;
   
-  printf("\n Enter An Integer Number = ");
+  printf("\n Enter An Integer Number =");
   scanf("%d",&Num);
   
   if(Num % 2 == 0)

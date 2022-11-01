@@ -22,7 +22,7 @@ int main()
         }
         printf("\n\n The Count Of Even Numbers in Given Array = %d",E_Cnt);
 
-        printf("\n\n Thanks... \n");
+        printf("\n\n Thanks !!! \n");
 
         getch();
         return 0;

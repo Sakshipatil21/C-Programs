@@ -3,7 +3,7 @@
 
 int main()
 {
-   int Values[5] = {0};
+   int Values[5] = {'\0'};
    
    printf("\n Enter Element No.1 = ");
    scanf("%d",&Values[0]);

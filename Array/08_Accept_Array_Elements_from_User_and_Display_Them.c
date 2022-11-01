@@ -30,7 +30,7 @@ int main()
    printf("\n\n Value of 104 Element = %d",Values[3]);
    printf("\n\n Value of 105 Element = %d",Values[4]);
 
-   Printf("\n\n Thanks !!!");
+   printf("\n\n Thanks !!!");
    
    getch();
    return 0;

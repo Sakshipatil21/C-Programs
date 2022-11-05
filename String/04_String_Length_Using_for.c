@@ -6,7 +6,7 @@ int main()
    char cSrc[50] = { };
    int Len = 0;
    
-   puts("\n Enter a String : ");
+   puts("\n Enter a String = ");
    gets(cSrc);
    
    for(Len = 0;cSrc[Len] != 0;Len ++);

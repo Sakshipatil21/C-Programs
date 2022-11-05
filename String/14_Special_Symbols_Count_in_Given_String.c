@@ -18,7 +18,7 @@ int main()
                 i++;
         }
 
-        printf("\n Special Symbols Count in Given String = %d",Cnt);
+        printf("\n Special Symbols in Given String is = %d",Cnt);
 
         printf("\n\n Thanks !!!");
 

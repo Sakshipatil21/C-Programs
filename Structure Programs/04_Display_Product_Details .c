@@ -12,7 +12,7 @@ struct product
 
 int main()
 {
-      struct product Obj1,Obj2,Obj3 = {11,"Book",100,150};
+      struct product Obj1,Obj2,Obj3 = {11,"Notebook",100,150};
       
       Obj1.P_Id = 9;
       strcpy(Obj1.Name,"Pen");

@@ -42,8 +42,7 @@ int main()
        
        for(i = 0; i < Count; i++)
        {
-            printf("\n\n %d Student Details => \n\n\t Roll No. = %d.\n\t Name = %s.\n\t City = %s.\n\t Percentage = %0.2f",i+1,Std[i].RollNo,Std[i].Name,Std[i].City,Std[i].Per);
-            
+            printf("\n\n %d Student Details => \n\n\t Roll No. = %d.\n\t Name = %s.\n\t City = %s.\n\t Percentage = %0.2f",i+1,Std[i].RollNo,Std[i].Name,Std[i].City,Std[i].Per);  
        }
        
        printf("\n\n =============================== \n");

@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-#define Count 3
+#define Count 5
 
 struct Student
 {

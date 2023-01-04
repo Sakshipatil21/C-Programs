@@ -36,7 +36,7 @@ int main()
        getch();
        system("cls");
        
-       printf("\n ================================= \n");
+       printf("\n ================================ \n");
        
        printf("\n Display Students Details =>");
        
@@ -45,7 +45,7 @@ int main()
             printf("\n\n %d Student Details => \n\n\t Roll No. = %d.\n\t Name = %s.\n\t City = %s.\n\t Percentage = %0.2f",i+1,Std[i].RollNo,Std[i].Name,Std[i].City,Std[i].Per);  
        }
        
-       printf("\n\n =============================== \n");
+       printf("\n\n ============================== \n");
        
        printf("\n Thanks !!!");
        

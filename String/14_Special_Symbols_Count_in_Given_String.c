@@ -20,7 +20,7 @@ int main()
 
         printf("\n Special Symbols in Given String is = %d",Cnt);
 
-        printf("\n\n Thanks !!!");
+        printf("\n\n Thanks !!");
 
         getch();
         return 0;

@@ -3,7 +3,7 @@
 
 int main()
 {
-      int r = 0, c = 0;
+      int r = 0,c = 0;
 
       printf("\n Table of 1 to 9 = \n");
       

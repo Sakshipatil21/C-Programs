@@ -34,12 +34,4 @@ int main()
 
       getch();
       return 0;
-}            }
-                  printf("\n");
-         }
-
-         printf("\n Thanks !!!");
-
-         getch();
-         return 0;
-}
+}    

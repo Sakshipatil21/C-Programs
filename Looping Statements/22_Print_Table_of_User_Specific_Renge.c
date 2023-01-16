@@ -36,7 +36,7 @@ int main()
 
       printf("\n ============ **** ============\n");
         
-      printf("\n Thanks !!!\n");
+      printf("\n Thanks !!\n");
 
       getch();
       return 0;

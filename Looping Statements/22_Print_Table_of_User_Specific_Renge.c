@@ -26,11 +26,10 @@ int main()
            else
            {
                 for(c = S_num; c >= E_num; c--)
-           {
-                printf("%4d",r * c);
-          
-           }
-           printf("\n");
+                {
+                   printf("%4d",r * c);
+                }
+                printf("\n");
            }
       }
 

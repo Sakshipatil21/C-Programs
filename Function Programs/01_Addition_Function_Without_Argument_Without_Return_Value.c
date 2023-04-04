@@ -20,8 +20,6 @@ void Add()
      Sum = No1 + No2;
      
      printf("\n Addition Of %d & %d = %d \n",No1,No2,Sum);
-     
-     return;
-}ch();
+
      return 0;
 }

@@ -21,5 +21,5 @@ void Add()
      
      printf("\n Addition Of %d & %d = %d \n",No1,No2,Sum);
 
-     return 0;
+     return;
 }

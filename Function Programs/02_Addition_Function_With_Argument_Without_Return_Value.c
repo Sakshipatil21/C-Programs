@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
 
+Void Add(int,int);
+
 int main()
 {
     int No1 = 0, No2 = 0;
